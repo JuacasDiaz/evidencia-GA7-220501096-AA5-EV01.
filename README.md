@@ -12,7 +12,7 @@ Implementa una API REST en PHP puro con base de datos MySQL que permite registra
 - Cliente HTTP para pruebas: Postman, Insomnia o curl
 
 ## Estructura del proyecto
-
+```
 |JUAN_CASTRILLON_AA5-EV01
 ├── config/
 │ └── database.php # Clase de conexion PDO a la base de datos
@@ -25,7 +25,7 @@ Implementa una API REST en PHP puro con base de datos MySQL que permite registra
 ├── .htaccess # Reglas de reescritura para Apache
 ├── base_de_datos.sql # Script de creacion de base de datos y tabla
 └── README.md
-
+```
 
 ## Configuracion de la base de datos
 
